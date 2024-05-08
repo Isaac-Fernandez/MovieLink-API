@@ -18,6 +18,8 @@ const fetchMovies = async(searchKey) =>{
         query: searchKey,
     },
 });
+
+
 return (results);
 
 }
